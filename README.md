@@ -3,10 +3,10 @@
 
 ```shell
 $ sudo apt update
-$ sudo apt install python3
+$ sudo apt install python
 $ sudo git clone https://github.com/Borayeim/BLUETOOTH-DOS-ATTTACK.git
 $ cd BLUETOOTH-DOS-ATTTACK
-$ python3 Bluetooth-DOS-Attack.py
+$ python  Bluetooth-Dos-Attack.py
 ```
 ## Note
 
