@@ -8,6 +8,9 @@ $ sudo git clone https://github.com/Borayeim/BLUETOOTH-DOS-ATTTACK.git
 $ cd BLUETOOTH-DOS-ATTTACK
 $ python3 Bluetooth-DOS-Attack.py
 ```
+## Note
+
+This script is designed to work only on Linux systems.You must have "l2ping" and "hcitool" utilities on your Linux machine (they are installed by default on Kali Linux).
 |  Packages size | Threads count| Ping, ms  | Distance, meters | Time waited, sec  | Device |
 |:--------------:|:-----: |:------------:|:--------------------:|:----------------:|:------:|
 |  600           | 1       | 9           |0,3                   |           5      |Xiaomi Mi Portable Bluetooth Speaker|
